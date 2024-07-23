@@ -1,0 +1,33 @@
+.frame{
+    height: 400px;
+    width: 500px;
+    background-color: blueviolet;
+    margin: auto;
+}
+h1{
+    margin-left: 190px;
+}
+.fram{
+    display: flex;
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 120px;
+}
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+}
+.start{
+    background-color: rgb(53, 221, 53);
+    margin-left: 80px;
+}
+.stop{
+    background-color: red;
+}
+.reset{
+    background-color: yellow;
+}
